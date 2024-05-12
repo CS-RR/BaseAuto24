@@ -1,5 +1,18 @@
-Automatización de Búsqueda en Google con Selenium y Serenity
-Este repositorio contiene un proyecto de automatización de pruebas utilizando Selenium WebDriver y Serenity BDD para realizar una búsqueda en Google de la palabra "cucumber" y verificar que los resultados sean consistentes con la búsqueda.
+# Google Search Automation with Selenium and Serenity
 
-Descripción del Proyecto
-El objetivo de este proyecto es demostrar la automatización de una búsqueda en Google utilizando Selenium WebDriver y Serenity BDD. La búsqueda se realiza en la página principal de Google y se verifica que los resultados obtenidos sean coherentes con la palabra clave "cucumber".
+This repository contains a test automation project using Selenium WebDriver and Serenity BDD to perform a Google search for the word "cucumber" and verify that the results are consistent with the search.
+
+# Project Description
+
+The goal of this project is to demonstrate the automation of a Google search using Selenium WebDriver and Serenity BDD. The search is carried out on the main page of Google and it is verified that the results obtained are consistent with the keyword "cucumber".
+
+*It's simple but effective.*
+
+# IDE
+IntelliJ IDEA 2024.1.1 (Ultimate Edition)
+
+Java version "22.0.1"
+
+Gradle 8.7
+
+
