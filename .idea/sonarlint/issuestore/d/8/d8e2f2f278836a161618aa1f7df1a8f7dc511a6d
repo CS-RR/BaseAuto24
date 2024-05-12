@@ -1,0 +1,7 @@
+
+”
+java:S1104	"QMake INPUT a static final constant or non-public and provide accessors if needed.(—¶Ù8æî™Ùö1J$84318545-cd2d-416c-8b60-f6f63b6c7e6a
+n
+java:S1444	"+Make this "public static INPUT" field final(—¶Ù8çî™Ùö1J$ef083ab2-4c14-45c2-94a1-edba3fb25bee
+“
+java:S3008	"PRename this field "INPUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¶Ù8ëî™Ùö1J$9391c8aa-186d-4402-b019-774724a466ff
